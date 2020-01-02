@@ -29,5 +29,9 @@
   "dependencies": {
     "glsl-man": "^1.1.14",
     "loader-utils": "^1.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
   }
 }
